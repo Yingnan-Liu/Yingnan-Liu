@@ -4,7 +4,7 @@
 **Yingnan-Liu/Yingnan-Liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-![tumblr_myosd8yz3S1qm9fxho1_500](https://user-images.githubusercontent.com/57551944/126639169-6fd09cc1-e5b7-44a8-8832-294d442075aa.gif)
+
 ### Hi there 👋
 
 
